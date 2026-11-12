@@ -8,11 +8,15 @@
 
 ### [⬇ حمّل التعريب — النسخة اليدوية (16 ميجابايت)](https://github.com/AbudiHadi/kingdom-come-deliverance-2-arabic/raw/main/download/KCD2-Arabic-Manual.zip)
 
-<sub>الإصدار 1.0.4 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/kingdom-come-deliverance-2-arabic/releases/latest)</sub>
+<sub>الإصدار 1.0.5 • كل الإصدارات: [صفحة Releases](https://github.com/AbudiHadi/kingdom-come-deliverance-2-arabic/releases/latest)</sub>
 
 </div>
 
 ---
+
+## ما الجديد في 1.0.5
+
+- الإصدار 1.0.5: أزرار المفاتيح في الشروح (مثل شاشة تحميل اللعبة) كان يظهر فيها مربع بعد الحرف «E□» و«X□»؛ تم إصلاح الخط فصار الزر يعرض الحرف وحده. لا تغيير في نصوص الترجمة.
 
 ## ما الجديد في 1.0.4
 
